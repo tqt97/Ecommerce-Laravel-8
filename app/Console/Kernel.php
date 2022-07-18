@@ -9,9 +9,9 @@ use Illuminate\Foundation\Console\Kernel as ConsoleKernel;
 class Kernel extends ConsoleKernel
 {
     // Register the commands for the application.
-    protected $commands = [
-        MakeView::class
-    ];
+    // protected $commands = [
+    //     MakeView::class
+    // ];
     /**
      * Define the application's command schedule.
      *
